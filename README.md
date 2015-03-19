@@ -1,2 +1,4 @@
 # test-rep
 Test repository. 
+===============================================================================================
+Lycogala epidendrum, commonly known as wolf's milk, groening's slime is a cosmopolitan species of plasmodial slime mould which is often mistaken for a fungus. The aethalia, or fruiting bodies, occur either scattered or in groups on damp rotten wood, especially on large logs, from June to November. These aethalia are small, pink to brown cushion-like globs. They may excrete a pink paste if the outer wall is broken before maturity. When mature, the colour tends to become more brownish. When not fruiting, single celled individuals move about as very small, red amoeba-like organisms called plasmodia, masses of protoplasm that engulf bacteria, fungal and plant spores, protozoa, and particles of non-living organic matter through phagocytosis (see slime mould for more information).
